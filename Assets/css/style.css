@@ -1,0 +1,21 @@
+body:{
+    font-family: 'Open Sans', sans-serif;   
+}
+.titulo{
+text-align: center;
+
+}
+
+.texto4{
+padding: 1%;
+background-color:#17a2b8;
+text-align: center;
+}
+
+.icons-section{
+    width:unset;
+    height: 10px;
+    padding: 1;
+    text-align: center;
+
+}
